@@ -40,6 +40,14 @@
             "discoveredTimestamp": 1740008082234,
             "caughtTimestamp": 1740008082234
           }
+        },
+        "machop": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740008247061,
+            "caughtTimestamp": 1740008247061
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -58,7 +66,7 @@
     "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 2,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "ground": 1,
       "normal": 1,

@@ -88,6 +88,14 @@
             "discoveredTimestamp": 1740008092578,
             "caughtTimestamp": 1740008092578
           }
+        },
+        "charmander": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740008247060,
+            "caughtTimestamp": 1740008247060
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -106,7 +114,7 @@
     "totalPvWBattleVictoryCount": 14,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 4,
+    "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "normal": 1,
       "ground": 2,
