@@ -2186,6 +2186,7 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_chesto_berry": "2025-02-19 02:26:24 +0000",
+      "obtain_persim_berry": "2025-02-19 23:29:46 +0000",
       "obtain_razz_berry": "2025-02-19 02:11:32 +0000",
       "obtain_oran_berry": "2025-02-19 02:13:45 +0000",
       "obtain_cheri_berry": "2025-02-19 03:40:26 +0000"
@@ -3328,7 +3329,9 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "level_ball": "2025-02-19 23:29:29 +0000",
       "poke_ball": "2025-02-19 02:36:44 +0000",
+      "friend_ball": "2025-02-19 23:23:00 +0000",
       "master_ball": "2025-02-19 04:16:06 +0000"
     },
     "done": false
@@ -3379,9 +3382,10 @@
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-02-19 02:37:03 +0000",
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000",
       "has_red_apricorn": "2025-02-19 04:50:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
     "criteria": {
@@ -4148,15 +4152,17 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000",
       "has_red_apricorn": "2025-02-19 04:50:50 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000",
       "has_red_apricorn": "2025-02-19 04:50:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -4175,6 +4181,145 @@
       "has_red_apricorn": "2025-02-19 04:50:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "level_ball": "2025-02-19 23:29:29 +0000",
+      "friend_ball": "2025-02-19 23:23:00 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soft_sand": {
+    "criteria": {
+      "has_sand": "2025-02-19 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-19 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-02-19 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-19 23:30:28 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-19 23:31:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-02-19 23:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-19 23:21:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

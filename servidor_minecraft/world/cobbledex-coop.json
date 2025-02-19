@@ -119,6 +119,22 @@
         "discoveredTimestamp": 1739940344391,
         "caughtTimestamp": 1739940344391
       }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740007746136,
+        "caughtTimestamp": 1740007746136
+      }
+    },
+    "machamp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740008092579,
+        "caughtTimestamp": 1740008092579
+      }
     }
   }
 }
