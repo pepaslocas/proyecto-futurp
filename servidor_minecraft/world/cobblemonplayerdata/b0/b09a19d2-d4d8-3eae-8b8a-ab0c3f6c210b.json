@@ -1,0 +1,107 @@
+{
+  "uuid": "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "f03254dc-54a9-4a0b-830d-1edb570b3620",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "chimchar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739929041001,
+            "caughtTimestamp": 1739929041001
+          }
+        },
+        "monferno": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739932097511,
+            "caughtTimestamp": 1739932097511
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739935849419,
+            "caughtTimestamp": 1739935849419
+          }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739936033601,
+            "caughtTimestamp": 1739936033601
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739939413236,
+            "caughtTimestamp": 1739939413236
+          }
+        },
+        "tinkatuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739939426125,
+            "caughtTimestamp": 1739939426125
+          }
+        },
+        "graveler": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739939766032,
+            "caughtTimestamp": 1739939766032
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 13,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 12,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "ice": 1,
+      "normal": 1,
+      "flying": 1,
+      "fairy": 1,
+      "steel": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:bunnelby": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:cutiefly": 1,
+      "cobblemon:caterpie": 1,
+      "cobblemon:seedot": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:ninjask": 1,
+      "cobblemon:honedge": 1
+    },
+    "aspectsCollected": {}
+  }
+}

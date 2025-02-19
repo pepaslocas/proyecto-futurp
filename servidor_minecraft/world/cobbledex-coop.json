@@ -1,0 +1,124 @@
+{
+  "registers": {
+    "chimchar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739929041004,
+        "caughtTimestamp": 1739929041004
+      }
+    },
+    "froakie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739929431309,
+        "caughtTimestamp": 1739929431309
+      }
+    },
+    "charmander": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931531731,
+        "caughtTimestamp": 1739931531731
+      }
+    },
+    "monferno": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739932097511,
+        "caughtTimestamp": 1739932097511
+      }
+    },
+    "lapras": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739935849420,
+        "caughtTimestamp": 1739935849420
+      }
+    },
+    "fletchling": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739936033602,
+        "caughtTimestamp": 1739936033602
+      }
+    },
+    "diggersby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739938335184,
+        "caughtTimestamp": 1739938335184
+      }
+    },
+    "machop": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739938354479,
+        "caughtTimestamp": 1739938354479
+      }
+    },
+    "ursaluna": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939093128,
+        "caughtTimestamp": 1739939093128
+      }
+    },
+    "tinkatink": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939413236,
+        "caughtTimestamp": 1739939413236
+      }
+    },
+    "graveler": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939420681,
+        "caughtTimestamp": 1739939420681
+      }
+    },
+    "tinkatuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939426125,
+        "caughtTimestamp": 1739939426125
+      }
+    },
+    "golem": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939885474,
+        "caughtTimestamp": 1739939885474
+      }
+    },
+    "frogadier": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939984679,
+        "caughtTimestamp": 1739939984679
+      }
+    },
+    "machoke": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739940344391,
+        "caughtTimestamp": 1739940344391
+      }
+    }
+  }
+}
