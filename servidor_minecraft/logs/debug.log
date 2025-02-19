@@ -14954,3 +14954,134 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 23:47:13.971] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
 [19Feb2025 23:47:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Ice Bucket Challenge]
 [19Feb2025 23:47:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Isn't It Iron Pick]
+[19Feb2025 23:47:27.806] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[19Feb2025 23:47:27.806] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:47:27.807] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[19Feb2025 23:47:38.145] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue1
+[19Feb2025 23:47:43.052] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[19Feb2025 23:47:55.406] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[19Feb2025 23:47:57.955] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[19Feb2025 23:47:57.955] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:47:57.957] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[19Feb2025 23:48:18.644] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship_ruins1
+[19Feb2025 23:48:24.225] [Worker-Main-10/DEBUG] [ModernFix/]: Structure idas:nexus/nexus_blue is being run through DFU (hash f4ac42c50b907d171259f7869dc7f55226dbbd70bcc91768c05682cae5e66221), this will cause launch time delays
+[19Feb2025 23:48:27.904] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Feb2025 23:48:27.904] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:48:27.905] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Feb2025 23:48:29.128] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[19Feb2025 23:48:31.463] [Worker-Main-10/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[19Feb2025 23:48:31.671] [Worker-Main-10/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[19Feb2025 23:48:38.850] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[19Feb2025 23:48:38.861] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[19Feb2025 23:48:38.948] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[19Feb2025 23:48:38.976] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[19Feb2025 23:48:39.010] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[19Feb2025 23:48:39.017] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[19Feb2025 23:48:39.050] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_triple_0 is being run through DFU (hash b7d207f9e9204ae5d8d65d8199c23198e1b71579ed216248201d64790d7cf759), this will cause launch time delays
+[19Feb2025 23:48:39.123] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[19Feb2025 23:48:39.129] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[19Feb2025 23:48:39.143] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_0 is being run through DFU (hash ef5ad598b72504c863077bcf77d6f95045b5c18eb49ab1d25b6764a642545e7e), this will cause launch time delays
+[19Feb2025 23:48:39.147] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_2 is being run through DFU (hash 3a84eed6b6c85e2f7675aab32a3ac7ad764d123fe0996979ed0cd249be6234dc), this will cause launch time delays
+[19Feb2025 23:48:42.181] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship
+[19Feb2025 23:48:57.954] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Feb2025 23:48:57.956] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:48:57.957] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Feb2025 23:48:58.174] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[19Feb2025 23:48:58.224] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[19Feb2025 23:48:58.245] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[19Feb2025 23:48:58.275] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[19Feb2025 23:48:58.302] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[19Feb2025 23:48:58.331] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[19Feb2025 23:48:58.368] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[19Feb2025 23:48:58.399] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[19Feb2025 23:48:58.431] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[19Feb2025 23:48:58.461] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[19Feb2025 23:48:58.483] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[19Feb2025 23:48:58.500] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[19Feb2025 23:48:58.521] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[19Feb2025 23:48:58.551] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[19Feb2025 23:48:58.590] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[19Feb2025 23:48:58.621] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[19Feb2025 23:48:58.641] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[19Feb2025 23:48:58.675] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[19Feb2025 23:48:58.725] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[19Feb2025 23:48:58.758] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[19Feb2025 23:48:58.787] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[19Feb2025 23:48:58.838] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[19Feb2025 23:48:58.962] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[19Feb2025 23:48:58.982] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[19Feb2025 23:48:58.982] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[19Feb2025 23:48:58.983] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[19Feb2025 23:49:08.520] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/base_plate
+[19Feb2025 23:49:11.555] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower1
+[19Feb2025 23:49:14.085] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[19Feb2025 23:49:21.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[19Feb2025 23:49:28.777] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[19Feb2025 23:49:28.899] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[19Feb2025 23:49:28.946] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium2
+[19Feb2025 23:49:31.009] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Feb2025 23:49:31.009] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:49:31.010] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Feb2025 23:49:43.619] [Worker-Main-7/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[19Feb2025 23:49:44.055] [Worker-Main-9/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[19Feb2025 23:49:55.649] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[19Feb2025 23:50:01.055] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Feb2025 23:50:01.056] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:50:01.057] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Feb2025 23:50:22.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of emissssss) moved wrongly! 0.25892768491394236
+[19Feb2025 23:50:31.189] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Feb2025 23:50:31.189] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:50:31.190] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Feb2025 23:50:57.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:50:57.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:51:01.155] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:51:01.155] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:51:01.155] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:51:31.205] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:51:31.205] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:51:31.205] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:51:59.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Not Today, Thank You]
+[19Feb2025 23:52:01.254] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:52:01.254] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:52:01.254] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:52:31.305] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:52:31.305] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:52:31.305] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:53:01.355] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:53:01.355] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:53:01.356] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:53:31.406] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:53:31.406] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:53:31.406] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:54:01.455] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:54:01.455] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:54:01.455] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:54:31.505] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:54:31.505] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:54:31.505] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:55:01.555] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:55:01.555] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:55:01.555] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:55:31.606] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:55:31.606] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:55:31.606] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:55:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss was slain by PavoLoco
+[19Feb2025 23:55:37.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[19Feb2025 23:55:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Ravager
+[19Feb2025 23:55:38.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_birch
+[19Feb2025 23:55:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -2785.500000, 71.500000, -2034.500000]
+[19Feb2025 23:55:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[19Feb2025 23:55:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Creepie Crawly]
+[19Feb2025 23:55:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Hero of the Village]
+[19Feb2025 23:55:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has completed the challenge [Hero of the Village]
+[19Feb2025 23:55:57.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Feb2025 23:55:57.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Feb2025 23:56:01.654] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:56:01.654] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:56:01.654] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:56:31.705] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:56:31.705] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:56:31.705] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Feb2025 23:57:01.755] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Feb2025 23:57:01.755] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Feb2025 23:57:01.756] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

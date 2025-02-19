@@ -3861,3 +3861,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Feb2025 23:45:54.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18166, l='ServerLevel[world]', x=-2903.50, y=47.00, z=-553.50]
 [19Feb2025 23:47:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Ice Bucket Challenge]
 [19Feb2025 23:47:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Isn't It Iron Pick]
+[19Feb2025 23:49:21.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[19Feb2025 23:49:43.619] [Worker-Main-7/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[19Feb2025 23:49:44.055] [Worker-Main-9/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[19Feb2025 23:50:22.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of emissssss) moved wrongly! 0.25892768491394236
+[19Feb2025 23:51:59.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Not Today, Thank You]
+[19Feb2025 23:55:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss was slain by PavoLoco
+[19Feb2025 23:55:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Ravager
+[19Feb2025 23:55:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -2785.500000, 71.500000, -2034.500000]
+[19Feb2025 23:55:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[19Feb2025 23:55:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Creepie Crawly]
+[19Feb2025 23:55:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Hero of the Village]
+[19Feb2025 23:55:56.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has completed the challenge [Hero of the Village]
