@@ -1532,6 +1532,7 @@
       "cooked_porkchop": "2025-02-19 02:46:32 +0000",
       "honey_bottle": "2025-02-19 03:53:56 +0000",
       "cooked_beef": "2025-02-19 01:57:28 +0000",
+      "cooked_chicken": "2025-02-20 01:32:48 +0000",
       "bread": "2025-02-19 01:59:32 +0000",
       "cooked_salmon": "2025-02-19 03:48:34 +0000"
     },
@@ -3896,9 +3897,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-20 01:38:44 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-20 01:38:44 +0000"
     },
     "done": true
   },
@@ -3923,6 +3936,12 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 01:38:44 +0000"
     },
     "done": true
   },
@@ -3995,6 +4014,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 01:38:44 +0000"
     },
     "done": true
   },
@@ -4079,6 +4104,18 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-20 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-20 01:38:44 +0000"
     },
     "done": true
   },
