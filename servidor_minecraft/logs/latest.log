@@ -3712,3 +3712,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Feb2025 01:51:49.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/29801, l='ServerLevel[world]', x=-6885.50, y=55.00, z=-7502.50]
 [20Feb2025 01:52:07.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/29905, l='ServerLevel[world]', x=-6885.50, y=55.00, z=-7503.50]
 [20Feb2025 01:52:45.046] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 01:58:35.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emissssss[/127.102.213.154:57237] logged in with entity id 31735 at (-5148.129953264173, 63.0, -4562.253974113866)
+[20Feb2025 01:58:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss joined the game
+[20Feb2025 01:58:51.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported emissssss to PavoLoco]
+[20Feb2025 02:00:22.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/32780, l='ServerLevel[world]', x=-6938.50, y=54.00, z=-7484.50]
+[20Feb2025 02:00:55.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Cobweb Entanglement]
+[20Feb2025 02:02:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 02:02:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 02:02:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 02:02:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 02:02:45.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 02:02:51.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[20Feb2025 02:02:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[20Feb2025 02:03:08.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.226.223.37:37253] logged in with entity id 33959 at (-6906.675797694747, 98.0, -7778.494596275805)
+[20Feb2025 02:03:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[20Feb2025 02:03:17.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[20Feb2025 02:03:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game

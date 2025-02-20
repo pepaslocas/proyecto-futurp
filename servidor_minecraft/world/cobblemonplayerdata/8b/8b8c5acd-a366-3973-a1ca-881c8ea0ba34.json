@@ -61,9 +61,9 @@
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 11,
+    "totalBattleVictoryCount": 12,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 12,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
@@ -80,7 +80,8 @@
       "cobblemon:slowpoke": 2,
       "cobblemon:mareep": 1,
       "cobblemon:zigzagoon": 1,
-      "cobblemon:fletchling": 1
+      "cobblemon:fletchling": 1,
+      "cobblemon:igglybuff": 1
     },
     "aspectsCollected": {}
   }

@@ -4764,21 +4764,9 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/building_blocks/driftwood": {
-    "criteria": {
-      "has_log": "2025-02-20 01:33:15 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:28 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
-    "criteria": {
-      "has_logs": "2025-02-20 01:33:15 +0000"
     },
     "done": true
   },
@@ -4881,6 +4869,18 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:28 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
+    "criteria": {
+      "has_log": "2025-02-20 01:33:15 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-20 01:33:15 +0000"
     },
     "done": true
   },

@@ -3982,6 +3982,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -4024,6 +4030,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-20 01:57:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -4045,6 +4063,12 @@
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
     },
     "done": true
   },
@@ -4117,6 +4141,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-02-20 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
     },
     "done": true
   },
