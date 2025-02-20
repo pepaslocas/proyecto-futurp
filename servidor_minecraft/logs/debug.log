@@ -17736,3 +17736,236 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Feb2025 22:09:11.479] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 215 classes
 [20Feb2025 22:09:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft joined the game
 [20Feb2025 22:09:12.380] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[20Feb2025 22:09:36.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:09:36.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:09:36.247] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:09:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> d
+[20Feb2025 22:09:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:48.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11522, l='ServerLevel[world]', x=-8375.70, y=178.00, z=-7543.30] died, message: 'Butcher was slain by PavoLoco'
+[20Feb2025 22:09:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:49.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:50.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:51.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> duermanse
+[20Feb2025 22:10:06.296] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[20Feb2025 22:10:06.297] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:10:06.299] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[20Feb2025 22:10:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[20Feb2025 22:10:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [A Full Palette]
+[20Feb2025 22:10:36.347] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:10:36.347] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:10:36.348] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:11:06.396] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:11:06.396] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:11:06.397] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:11:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [You Cannot Handle My Potions]
+[20Feb2025 22:11:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -8673.500000, 214.500000, -7899.500000]
+[20Feb2025 22:11:31.016] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 64fead4c-354d-41fb-b469-ef9eb76bf1de
+[20Feb2025 22:11:31.016] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 64fead4c-354d-41fb-b469-ef9eb76bf1de
+[20Feb2025 22:11:36.446] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:11:36.446] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:11:36.447] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:12:06.496] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:12:06.497] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:12:06.497] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:12:36.545] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:12:36.546] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:12:36.547] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:12:50.535] [Server thread/DEBUG] [Cobbledex/]: Saving 63 entries to /workspaces/proyecto-futurp/servidor_minecraft/./world/./cobbledex-coop.json
+[20Feb2025 22:13:06.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[20Feb2025 22:13:06.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:13:06.599] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[20Feb2025 22:13:16.619] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[20Feb2025 22:13:18.357] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_blue
+[20Feb2025 22:13:31.509] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[20Feb2025 22:13:31.525] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[20Feb2025 22:13:31.546] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[20Feb2025 22:13:33.994] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[20Feb2025 22:13:34.014] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[20Feb2025 22:13:36.646] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[20Feb2025 22:13:36.647] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:13:36.648] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[20Feb2025 22:13:39.195] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of argentinas_delight:arbolyerbamate
+[20Feb2025 22:13:46.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[20Feb2025 22:13:46.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[20Feb2025 22:13:46.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[20Feb2025 22:13:46.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[20Feb2025 22:13:46.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[20Feb2025 22:13:46.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[20Feb2025 22:13:46.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[20Feb2025 22:13:46.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[20Feb2025 22:13:46.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[20Feb2025 22:13:46.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[20Feb2025 22:13:46.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[20Feb2025 22:13:55.504] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[20Feb2025 22:14:04.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 22:14:04.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 22:14:06.695] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:14:06.695] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:14:06.696] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:14:13.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [A Full Palette]
+[20Feb2025 22:14:36.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:14:36.745] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:14:36.746] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:15:06.796] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:15:06.797] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:15:06.798] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:15:36.851] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:15:36.851] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:15:36.852] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:16:06.896] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:16:06.896] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:16:06.897] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:16:36.945] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:16:36.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:16:36.947] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:16:57.877] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos BlockPos{x=-8805, y=104, z=-7275}
+[20Feb2025 22:16:57.961] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[20Feb2025 22:16:58.029] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[20Feb2025 22:16:58.043] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[20Feb2025 22:16:58.077] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[20Feb2025 22:16:58.091] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[20Feb2025 22:16:58.184] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[20Feb2025 22:16:59.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.539852296620666,-1.0,2.9187903009615184
+[20Feb2025 22:17:03.656] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[20Feb2025 22:17:03.686] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[20Feb2025 22:17:03.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[20Feb2025 22:17:03.733] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[20Feb2025 22:17:03.759] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[20Feb2025 22:17:03.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[20Feb2025 22:17:03.938] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[20Feb2025 22:17:03.967] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_slopes_inn/snowy_slopes_table_1 is being run through DFU (hash bd9091909ac22e484f928be6ff4dd161820c0d449b161b2030156c732419e197), this will cause launch time delays
+[20Feb2025 22:17:04.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[20Feb2025 22:17:04.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.953761860764644,-0.7012968536522237,1.434262109051815
+[20Feb2025 22:17:07.948] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[20Feb2025 22:17:08.057] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[20Feb2025 22:17:08.102] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[20Feb2025 22:17:08.260] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_entrance
+[20Feb2025 22:17:10.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:17:10.896] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:17:10.911] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:17:13.585] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[20Feb2025 22:17:13.629] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[20Feb2025 22:17:37.914] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1666513619,316821492,-1855234901,305274034],type:"minecraft:entity",y_offset:0.36f}}]
+[20Feb2025 22:17:40.988] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:17:40.989] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:17:40.989] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:17:41.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14221, l='ServerLevel[world]', x=-8307.50, y=155.00, z=-8285.30] died, message: 'Villager suffocated in a wall'
+[20Feb2025 22:17:44.000] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[20Feb2025 22:17:45.530] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=-8987, y=105, z=-7259}
+[20Feb2025 22:17:46.355] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[20Feb2025 22:17:47.321] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[20Feb2025 22:17:53.036] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_3
+[20Feb2025 22:17:53.051] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/mothership/mothership_1
+[20Feb2025 22:17:53.056] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_4
+[20Feb2025 22:17:53.061] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/escort/escort_1
+[20Feb2025 22:17:53.062] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_1
+[20Feb2025 22:17:53.063] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/small_ship/small_ship_2
+[20Feb2025 22:18:00.885] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/pieces/escort/escort_2
+[20Feb2025 22:18:11.004] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:18:11.005] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:18:11.006] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:18:23.732] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:24.419] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:25.216] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[20Feb2025 22:18:25.240] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[20Feb2025 22:18:25.263] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[20Feb2025 22:18:25.264] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[20Feb2025 22:18:25.264] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[20Feb2025 22:18:25.265] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[20Feb2025 22:18:25.282] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[20Feb2025 22:18:25.300] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[20Feb2025 22:18:25.348] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/graveyard/main1
+[20Feb2025 22:18:25.379] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mine/start
+[20Feb2025 22:18:33.251] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:33.415] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:35.983] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/turn_01
+[20Feb2025 22:18:35.984] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/flower_forest_planter_1
+[20Feb2025 22:18:35.985] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_1
+[20Feb2025 22:18:35.985] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_2
+[20Feb2025 22:18:35.986] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_3
+[20Feb2025 22:18:35.987] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_4
+[20Feb2025 22:18:35.989] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_5
+[20Feb2025 22:18:35.989] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_house_6
+[20Feb2025 22:18:35.991] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_medium_house_1
+[20Feb2025 22:18:35.993] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_large_house_1
+[20Feb2025 22:18:35.994] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_butcher_1
+[20Feb2025 22:18:35.996] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_toolsmith_1
+[20Feb2025 22:18:35.996] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_fletcher_1
+[20Feb2025 22:18:35.998] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_shepherd_1
+[20Feb2025 22:18:35.999] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_armorer_1
+[20Feb2025 22:18:36.000] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_fisher_1
+[20Feb2025 22:18:36.001] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_leatherworker_1
+[20Feb2025 22:18:36.002] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_cartographer_1
+[20Feb2025 22:18:36.003] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_library_1
+[20Feb2025 22:18:36.004] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_mason_1
+[20Feb2025 22:18:36.005] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_weaponsmith_1
+[20Feb2025 22:18:36.007] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_temple_1
+[20Feb2025 22:18:36.007] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_stable_1
+[20Feb2025 22:18:36.008] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_large_farm_1
+[20Feb2025 22:18:36.008] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_small_farm_1
+[20Feb2025 22:18:36.009] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_1
+[20Feb2025 22:18:36.009] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_2
+[20Feb2025 22:18:36.010] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_animal_pen_3
+[20Feb2025 22:18:36.011] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_park_1
+[20Feb2025 22:18:36.012] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_park_2
+[20Feb2025 22:18:36.013] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/terminators/terminator_01
+[20Feb2025 22:18:36.013] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/terminators/terminator_02
+[20Feb2025 22:18:36.013] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/terminators/terminator_03
+[20Feb2025 22:18:36.014] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/terminators/terminator_04
+[20Feb2025 22:18:36.034] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_06
+[20Feb2025 22:18:36.034] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/flower_forest_gate_1
+[20Feb2025 22:18:36.035] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/flower_forest_gate_2
+[20Feb2025 22:18:36.051] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_03
+[20Feb2025 22:18:36.066] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_01
+[20Feb2025 22:18:36.066] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/flower_forest_lamp_1
+[20Feb2025 22:18:36.089] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_04
+[20Feb2025 22:18:36.090] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_04
+[20Feb2025 22:18:36.091] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_02
+[20Feb2025 22:18:36.091] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_03
+[20Feb2025 22:18:36.092] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_05
+[20Feb2025 22:18:36.093] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_02
+[20Feb2025 22:18:36.093] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_06
+[20Feb2025 22:18:36.094] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/corner_02
+[20Feb2025 22:18:36.095] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_05
+[20Feb2025 22:18:36.096] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/crossroad_01
+[20Feb2025 22:18:36.097] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/corner_01
+[20Feb2025 22:18:36.098] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/corner_03
+[20Feb2025 22:18:41.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 22:18:41.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:18:41.047] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 22:19:07.700] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[20Feb2025 22:19:08.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 22:19:08.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 22:19:11.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 22:19:11.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:19:11.096] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 22:19:12.147] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[20Feb2025 22:19:26.035] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.036] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.062] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.062] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.084] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.482] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.522] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.523] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.524] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.524] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.581] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.583] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[20Feb2025 22:19:41.217] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 22:19:41.217] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 22:19:41.217] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 22:19:43.067] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[20Feb2025 22:19:43.136] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[20Feb2025 22:19:43.173] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[20Feb2025 22:19:43.293] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[20Feb2025 22:19:43.309] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[20Feb2025 22:19:43.309] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1

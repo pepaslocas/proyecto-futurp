@@ -136,6 +136,14 @@
             "discoveredTimestamp": 1740029467906,
             "caughtTimestamp": 1740029467906
           }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740089570535,
+            "caughtTimestamp": 1740089570535
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -148,12 +156,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 11,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 28,
+    "totalBattleVictoryCount": 29,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 24,
+    "totalPvWBattleVictoryCount": 25,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -163,9 +171,10 @@
       "normal": 3,
       "flying": 1,
       "fairy": 2,
-      "steel": 2,
+      "steel": 3,
       "bug": 1,
-      "fighting": 1
+      "fighting": 1,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

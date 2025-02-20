@@ -3157,19 +3157,31 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2025-02-20 22:14:13 +0000",
       "slate_ball": "2025-02-20 21:58:38 +0000",
       "poke_ball": "2025-02-19 02:36:46 +0000",
-      "azure_ball": "2025-02-20 05:19:31 +0000"
+      "premier_ball": "2025-02-20 22:13:47 +0000",
+      "azure_ball": "2025-02-20 05:19:31 +0000",
+      "citrine_ball": "2025-02-20 22:14:08 +0000",
+      "verdant_ball": "2025-02-20 22:11:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "luxury_ball": "2025-02-20 22:18:53 +0000",
+      "great_ball": "2025-02-20 22:14:03 +0000",
+      "timer_ball": "2025-02-20 22:18:56 +0000",
       "ancient_poke_ball": "2025-02-20 05:09:08 +0000",
       "azure_ball": "2025-02-20 05:19:31 +0000",
       "dive_ball": "2025-02-20 02:18:11 +0000",
+      "verdant_ball": "2025-02-20 22:11:09 +0000",
+      "ultra_ball": "2025-02-20 22:11:06 +0000",
       "slate_ball": "2025-02-20 21:58:38 +0000",
-      "poke_ball": "2025-02-19 02:36:46 +0000"
+      "poke_ball": "2025-02-19 02:36:46 +0000",
+      "citrine_ball": "2025-02-20 22:14:08 +0000",
+      "roseate_ball": "2025-02-20 22:14:13 +0000",
+      "premier_ball": "2025-02-20 22:13:47 +0000"
     },
     "done": false
   },
@@ -3782,6 +3794,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "fletchingtable": "2025-02-20 05:37:52 +0000",
+      "brewingstand": "2025-02-20 22:09:36 +0000",
       "smoker": "2025-02-19 04:05:11 +0000",
       "woodworkingtable": "2025-02-20 05:36:26 +0000",
       "composter": "2025-02-20 05:33:46 +0000"
@@ -4793,7 +4806,9 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
-      "obtain_paralyze_heal": "2025-02-20 05:19:32 +0000"
+      "obtain_paralyze_heal": "2025-02-20 05:19:32 +0000",
+      "obtain_super_potion": "2025-02-20 22:19:06 +0000",
+      "obtain_potion": "2025-02-20 22:11:06 +0000"
     },
     "done": false
   },
@@ -5304,6 +5319,42 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-20 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-02-20 22:11:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-20 22:11:18 +0000"
     },
     "done": true
   },

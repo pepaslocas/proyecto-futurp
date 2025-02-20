@@ -3342,11 +3342,15 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2025-02-20 22:10:20 +0000",
+      "slate_ball": "2025-02-20 22:10:21 +0000",
       "poke_ball": "2025-02-19 02:36:44 +0000",
       "premier_ball": "2025-02-20 21:53:53 +0000",
-      "azure_ball": "2025-02-20 21:56:42 +0000"
+      "azure_ball": "2025-02-20 21:56:42 +0000",
+      "citrine_ball": "2025-02-20 22:10:14 +0000",
+      "verdant_ball": "2025-02-20 22:10:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
@@ -3358,8 +3362,12 @@
       "level_ball": "2025-02-19 23:29:29 +0000",
       "safari_ball": "2025-02-20 05:10:56 +0000",
       "dream_ball": "2025-02-20 03:42:17 +0000",
+      "verdant_ball": "2025-02-20 22:10:06 +0000",
       "ultra_ball": "2025-02-20 02:32:56 +0000",
+      "slate_ball": "2025-02-20 22:10:21 +0000",
       "poke_ball": "2025-02-19 02:36:44 +0000",
+      "citrine_ball": "2025-02-20 22:10:14 +0000",
+      "roseate_ball": "2025-02-20 22:10:20 +0000",
       "friend_ball": "2025-02-19 23:23:00 +0000",
       "master_ball": "2025-02-19 04:16:06 +0000",
       "premier_ball": "2025-02-20 21:53:53 +0000"
@@ -5860,6 +5868,24 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-20 21:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-20 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2025-02-20 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-20 22:14:10 +0000"
     },
     "done": true
   },

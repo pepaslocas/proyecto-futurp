@@ -5238,3 +5238,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Feb2025 22:08:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -8399.500000, 185.500000, -7585.500000]
 [20Feb2025 22:09:11.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: denercraft[/127.158.216.55:33099] logged in with entity id 12302 at (-8654.699999988079, 229.0, -7904.272605458507)
 [20Feb2025 22:09:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft joined the game
+[20Feb2025 22:09:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> d
+[20Feb2025 22:09:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:48.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11522, l='ServerLevel[world]', x=-8375.70, y=178.00, z=-7543.30] died, message: 'Butcher was slain by PavoLoco'
+[20Feb2025 22:09:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:49.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:50.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:50.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:51.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:52.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:54.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[20Feb2025 22:09:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> duermanse
+[20Feb2025 22:10:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[20Feb2025 22:10:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [A Full Palette]
+[20Feb2025 22:11:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [You Cannot Handle My Potions]
+[20Feb2025 22:11:30.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -8673.500000, 214.500000, -7899.500000]
+[20Feb2025 22:11:31.016] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 64fead4c-354d-41fb-b469-ef9eb76bf1de
+[20Feb2025 22:11:31.016] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 64fead4c-354d-41fb-b469-ef9eb76bf1de
+[20Feb2025 22:14:13.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [A Full Palette]
+[20Feb2025 22:16:57.877] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos BlockPos{x=-8805, y=104, z=-7275}
+[20Feb2025 22:16:59.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.539852296620666,-1.0,2.9187903009615184
+[20Feb2025 22:17:04.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[20Feb2025 22:17:04.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.953761860764644,-0.7012968536522237,1.434262109051815
+[20Feb2025 22:17:37.914] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1666513619,316821492,-1855234901,305274034],type:"minecraft:entity",y_offset:0.36f}}]
+[20Feb2025 22:17:41.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14221, l='ServerLevel[world]', x=-8307.50, y=155.00, z=-8285.30] died, message: 'Villager suffocated in a wall'
+[20Feb2025 22:17:45.530] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=-8987, y=105, z=-7259}
+[20Feb2025 22:18:23.732] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:24.419] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:33.251] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:18:33.415] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:07.700] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[20Feb2025 22:19:26.035] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.036] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.062] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.062] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:26.084] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.482] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.522] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.523] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.524] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.524] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.581] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 22:19:27.583] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest

@@ -474,6 +474,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740089008012
       }
+    },
+    "honedge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740089570535,
+        "caughtTimestamp": 1740089570535
+      }
     }
   }
 }
