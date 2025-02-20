@@ -5126,7 +5126,9 @@
   "cobblemon:brew_all": {
     "criteria": {
       "obtain_hyper_potion": "2025-02-20 02:13:51 +0000",
-      "obtain_max_potion": "2025-02-20 21:59:46 +0000"
+      "obtain_max_potion": "2025-02-20 21:59:46 +0000",
+      "obtain_burn_heal": "2025-02-20 22:20:47 +0000",
+      "obtain_potion": "2025-02-20 22:27:25 +0000"
     },
     "done": false
   },
@@ -5871,9 +5873,21 @@
     },
     "done": true
   },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-02-20 22:27:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-20 22:14:10 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/kill_any": {
+    "criteria": {
+      "kill_trainer": "2025-02-20 22:26:39 +0000"
     },
     "done": true
   },
