@@ -491,6 +491,14 @@
         "discoveredTimestamp": 1740090993269,
         "caughtTimestamp": 1740090993269
       }
+    },
+    "fletchinder": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740091981430,
+        "caughtTimestamp": 1740091981430
+      }
     }
   }
 }
