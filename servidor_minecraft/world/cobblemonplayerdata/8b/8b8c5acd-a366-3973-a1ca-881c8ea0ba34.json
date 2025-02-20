@@ -48,6 +48,97 @@
             "discoveredTimestamp": 1740008247061,
             "caughtTimestamp": 1740008247061
           }
+        },
+        "hypno": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740020303446
+          }
+        },
+        "nickit": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740020312303
+          }
+        },
+        "rapidash": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740020645452,
+            "caughtTimestamp": 1740020645452
+          }
+        },
+        "weezing": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740022277769
+          }
+        },
+        "koffing": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740022283402,
+            "caughtTimestamp": 1740029390022
+          }
+        },
+        "lechonk": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740022287053
+          }
+        },
+        "zigzagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740022291657
+          }
+        },
+        "bunnelby": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740025804657,
+            "caughtTimestamp": 1740025804657
+          }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740026389359,
+            "caughtTimestamp": 1740026389359
+          }
+        },
+        "raichu": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740026746603,
+            "caughtTimestamp": 1740026746603
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740026750908,
+            "caughtTimestamp": 1740029813195
+          }
+        },
+        "drowzee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740028818055,
+            "caughtTimestamp": 1740028818055
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -58,30 +149,37 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 12,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 12,
-    "totalPvNBattleVictoryCount": 0,
+    "totalBattleVictoryCount": 25,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 19,
+    "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "ground": 1,
-      "normal": 1,
+      "normal": 3,
       "water": 1,
-      "flying": 1
+      "flying": 2,
+      "fire": 2,
+      "electric": 1,
+      "psychic": 2,
+      "poison": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:wimpod": 1,
+      "cobblemon:wimpod": 2,
       "cobblemon:sentret": 1,
       "cobblemon:krabby": 2,
       "cobblemon:slowpoke": 2,
       "cobblemon:mareep": 1,
       "cobblemon:zigzagoon": 1,
       "cobblemon:fletchling": 1,
-      "cobblemon:igglybuff": 1
+      "cobblemon:igglybuff": 1,
+      "cobblemon:happiny": 1,
+      "cobblemon:pyukumuku": 1,
+      "cobblemon:snubbull": 1
     },
     "aspectsCollected": {}
   }
