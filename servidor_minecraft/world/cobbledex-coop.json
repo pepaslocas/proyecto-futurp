@@ -460,6 +460,20 @@
         "discoveredTimestamp": 1740029467907,
         "caughtTimestamp": 1740029467907
       }
+    },
+    "ampharos": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740088838113
+      }
+    },
+    "staraptor": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740089008012
+      }
     }
   }
 }

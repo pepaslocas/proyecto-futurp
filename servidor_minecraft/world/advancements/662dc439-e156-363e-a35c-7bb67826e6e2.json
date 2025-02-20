@@ -3343,7 +3343,8 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "poke_ball": "2025-02-19 02:36:44 +0000",
-      "premier_ball": "2025-02-20 21:53:53 +0000"
+      "premier_ball": "2025-02-20 21:53:53 +0000",
+      "azure_ball": "2025-02-20 21:56:42 +0000"
     },
     "done": false
   },
@@ -3352,6 +3353,7 @@
       "quick_ball": "2025-02-20 03:36:47 +0000",
       "great_ball": "2025-02-20 21:53:39 +0000",
       "ancient_poke_ball": "2025-02-20 04:24:31 +0000",
+      "azure_ball": "2025-02-20 21:56:42 +0000",
       "dive_ball": "2025-02-20 02:56:56 +0000",
       "level_ball": "2025-02-19 23:29:29 +0000",
       "safari_ball": "2025-02-20 05:10:56 +0000",
@@ -5115,7 +5117,8 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
-      "obtain_hyper_potion": "2025-02-20 02:13:51 +0000"
+      "obtain_hyper_potion": "2025-02-20 02:13:51 +0000",
+      "obtain_max_potion": "2025-02-20 21:59:46 +0000"
     },
     "done": false
   },

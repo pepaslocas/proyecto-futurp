@@ -308,6 +308,20 @@
             "discoveredTimestamp": 1740027404558,
             "caughtTimestamp": 1740027404558
           }
+        },
+        "ampharos": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740088838111
+          }
+        },
+        "staraptor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740089008011
+          }
         }
       },
       "name": "cobbledex_discovery"
