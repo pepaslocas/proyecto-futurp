@@ -322,6 +322,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740089008011
           }
+        },
+        "crabominable": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740090993268,
+            "caughtTimestamp": 1740090993268
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -334,25 +342,26 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 14,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 32,
+    "totalBattleVictoryCount": 33,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 26,
+    "totalPvWBattleVictoryCount": 27,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "normal": 4,
       "ground": 3,
-      "fighting": 3,
+      "fighting": 4,
       "rock": 2,
       "flying": 2,
       "psychic": 1,
       "bug": 1,
       "poison": 1,
-      "electric": 1
+      "electric": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,

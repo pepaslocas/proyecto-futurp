@@ -482,6 +482,14 @@
         "discoveredTimestamp": 1740089570535,
         "caughtTimestamp": 1740089570535
       }
+    },
+    "crabominable": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740090993269,
+        "caughtTimestamp": 1740090993269
+      }
     }
   }
 }
