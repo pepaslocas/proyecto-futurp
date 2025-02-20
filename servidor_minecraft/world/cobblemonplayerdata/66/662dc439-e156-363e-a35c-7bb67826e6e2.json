@@ -145,6 +145,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740017656898
           }
+        },
+        "bunnelby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017698311
+          }
         }
       },
       "name": "cobbledex_discovery"

@@ -146,6 +146,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-02-20 02:16:45 +0000",
       "beef": "2025-02-19 03:27:56 +0000",
       "porkchop": "2025-02-19 03:03:15 +0000",
       "mutton": "2025-02-19 02:29:41 +0000",
@@ -1877,6 +1878,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "great_ball": "2025-02-20 02:10:22 +0000",
       "poke_ball": "2025-02-19 02:36:51 +0000"
     },
     "done": false
@@ -4941,15 +4943,51 @@
     },
     "done": true
   },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2025-02-20 02:19:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 02:00:27 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-02-20 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-02-20 02:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-02-20 02:16:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-02-20 02:16:05 +0000"
     },
     "done": true
   },
@@ -4968,6 +5006,12 @@
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 02:16:42 +0000"
     },
     "done": true
   },
@@ -4995,9 +5039,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-20 02:16:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-02-20 02:16:05 +0000"
     },
     "done": true
   },
@@ -5007,11 +5069,23 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-02-20 02:18:05 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-02-20 02:05:05 +0000"
     },
     "done": false
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-02-20 02:15:49 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
