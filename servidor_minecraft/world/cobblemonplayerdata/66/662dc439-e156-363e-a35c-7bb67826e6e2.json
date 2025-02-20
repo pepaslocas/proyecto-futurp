@@ -103,6 +103,48 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740009481369
           }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017610678
+          }
+        },
+        "oinkologne": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017619313
+          }
+        },
+        "combee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017623335
+          }
+        },
+        "drifloon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017640339
+          }
+        },
+        "patrat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017643881
+          }
+        },
+        "kricketot": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740017656898
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -116,9 +158,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 17,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 14,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
@@ -137,7 +179,8 @@
       "cobblemon:rattata": 1,
       "cobblemon:geodude": 2,
       "cobblemon:patrat": 1,
-      "cobblemon:aipom": 1
+      "cobblemon:aipom": 1,
+      "cobblemon:machop": 1
     },
     "aspectsCollected": {}
   }

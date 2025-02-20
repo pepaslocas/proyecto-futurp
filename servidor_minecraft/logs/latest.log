@@ -3728,3 +3728,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Feb2025 02:03:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
 [20Feb2025 02:03:17.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
 [20Feb2025 02:03:17.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[20Feb2025 02:04:20.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.226.223.37:60507] logged in with entity id 34408 at (-6907.5227879327595, 98.0, -7790.207620151919)
+[20Feb2025 02:04:20.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[20Feb2025 02:04:46.536] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 02:04:54.873] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.4031243f,range:8,source:{pos:[I;-548,-50,-106],type:"minecraft:block"}}]
+[20Feb2025 02:04:59.313] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.472136f,range:8,source:{pos:[I;-561,-50,-112],type:"minecraft:block"}}]
+[20Feb2025 02:04:59.314] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-553,-50,-122],type:"minecraft:block"}}]
+[20Feb2025 02:04:59.359] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-547,-50,-107],type:"minecraft:block"}}]
+[20Feb2025 02:05:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Cobweb Entanglement]
+[20Feb2025 02:05:35.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-6752, y=-21, z=-8106} but found not block entity block Block{minecraft:air} at location
+[20Feb2025 02:05:35.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-6752, y=-21, z=-8106}
+[20Feb2025 02:06:06.022] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f77e67f0-2cec-4e59-80e9-c874d7d59cb4
+[20Feb2025 02:06:06.023] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f77e67f0-2cec-4e59-80e9-c874d7d59cb4
+[20Feb2025 02:07:25.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -4.19126323909768,1.1661092609382138,-9.203807150953253
+[20Feb2025 02:07:25.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! -9.004735393281408,3.249187078744683,-3.0540637368721946
+[20Feb2025 02:07:25.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[20Feb2025 02:08:13.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/36438, l='ServerLevel[world]', x=-6680.73, y=94.94, z=-7888.57] died, message: 'Farmer was slain by Tiger'
+[20Feb2025 02:08:17.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/36439, l='ServerLevel[world]', x=-6672.95, y=95.00, z=-7893.71] died, message: 'Farmer was slain by Tiger'
+[20Feb2025 02:08:41.009] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-340,-59,12],type:"minecraft:block"}}]
+[20Feb2025 02:08:41.010] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-338,-59,10],type:"minecraft:block"}}]
+[20Feb2025 02:08:41.010] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-336,-59,8],type:"minecraft:block"}}]
+[20Feb2025 02:09:35.800] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 606db27e-1ef2-4190-b47f-e59d1f867f11
+[20Feb2025 02:09:35.801] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 606db27e-1ef2-4190-b47f-e59d1f867f11
+[20Feb2025 02:10:51.817] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 02:10:51.818] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 02:10:51.915] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 02:10:53.624] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 38d263f7-9da2-4d06-ae9b-86d1310b45fe
+[20Feb2025 02:10:53.625] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 38d263f7-9da2-4d06-ae9b-86d1310b45fe
+[20Feb2025 02:10:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was shot by Pillager
+[20Feb2025 02:10:55.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/45397, l='ServerLevel[world]', x=-6724.30, y=61.02, z=-7497.79, removed=DISCARDED]
+[20Feb2025 02:11:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to -6620.500000, 93.500000, -8105.500000]
+[20Feb2025 02:12:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to emissssss]
+[20Feb2025 02:13:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[20Feb2025 02:13:35.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Creative Mode]
+[20Feb2025 02:13:49.994] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"artifacts:villager_hat"}
+[20Feb2025 02:13:50.010] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-7498, y=121, z=-8391}
+[20Feb2025 02:13:50.011] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-7497, y=121, z=-8391}
+[20Feb2025 02:13:50.011] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:13:50.011] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:13:50.012] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:13:50.012] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:13:50.012] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:13:50.012] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Feb2025 02:14:14.341] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[20Feb2025 02:14:18.252] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 02:14:18.253] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 02:14:20.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Survival Mode]

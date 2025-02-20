@@ -1693,6 +1693,7 @@
     "criteria": {
       "obtain_aspear_berry": "2025-02-19 04:06:47 +0000",
       "obtain_chesto_berry": "2025-02-19 02:27:39 +0000",
+      "obtain_razz_berry": "2025-02-20 02:06:30 +0000",
       "obtain_oran_berry": "2025-02-19 02:05:16 +0000",
       "obtain_cheri_berry": "2025-02-19 02:48:09 +0000",
       "obtain_chople_berry": "2025-02-19 03:52:37 +0000"
@@ -1797,13 +1798,15 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-02-19 02:06:47 +0000"
+      "has_red_apricorn": "2025-02-19 02:06:47 +0000",
+      "has_pink_apricorn": "2025-02-20 02:05:52 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_red_apricorn": "2025-02-19 02:06:47 +0000"
+      "has_red_apricorn": "2025-02-19 02:06:47 +0000",
+      "has_pink_apricorn": "2025-02-20 02:05:52 +0000"
     },
     "done": false
   },
@@ -1840,6 +1843,7 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000",
       "has_red_apricorn": "2025-02-19 02:06:47 +0000"
     },
     "done": false
@@ -1872,12 +1876,14 @@
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000",
       "has_red_apricorn": "2025-02-19 02:06:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000",
       "has_red_apricorn": "2025-02-19 02:06:47 +0000"
     },
     "done": false
@@ -2064,7 +2070,8 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-02-19 02:08:40 +0000"
+      "has_green_apricorn": "2025-02-19 02:08:40 +0000",
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000"
     },
     "done": false
   },
@@ -3898,6 +3905,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-02-20 01:38:44 +0000"
@@ -3946,6 +3965,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-20 02:07:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -3982,6 +4007,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-20 02:05:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
@@ -4012,6 +4043,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/soft_sand": {
+    "criteria": {
+      "has_sand": "2025-02-20 01:59:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -4027,6 +4064,38 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-20 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000",
+      "has_pink_apricorn": "2025-02-20 02:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-20 01:59:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-02-20 02:07:20 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000",
+      "has_pink_apricorn": "2025-02-20 02:05:52 +0000"
     },
     "done": true
   },
@@ -4054,6 +4123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-20 02:07:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -4069,6 +4144,12 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-20 01:57:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-02-20 02:05:52 +0000"
     },
     "done": true
   },
@@ -4108,6 +4189,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/net_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-02-20 02:05:59 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
@@ -4120,9 +4207,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-20 02:07:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-20 01:59:27 +0000"
     },
     "done": true
   },
@@ -4141,6 +4240,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-02-20 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-20 02:07:20 +0000"
     },
     "done": true
   },
@@ -4171,6 +4276,12 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-20 02:05:52 +0000"
     },
     "done": true
   },

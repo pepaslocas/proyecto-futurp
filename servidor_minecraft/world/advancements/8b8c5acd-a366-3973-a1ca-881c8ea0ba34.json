@@ -62,6 +62,7 @@
       "minecraft:beach": "2025-02-19 02:37:20 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 02:38:25 +0000",
       "minecraft:dripstone_caves": "2025-02-19 02:21:32 +0000",
+      "minecraft:forest": "2025-02-20 02:08:26 +0000",
       "minecraft:deep_cold_ocean": "2025-02-20 00:02:35 +0000",
       "minecraft:ocean": "2025-02-19 03:24:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-19 04:50:38 +0000",
@@ -150,11 +151,13 @@
       "mutton": "2025-02-19 02:29:41 +0000",
       "glow_berries": "2025-02-19 03:40:21 +0000",
       "salmon": "2025-02-19 03:17:37 +0000",
+      "tropical_fish": "2025-02-20 02:00:09 +0000",
       "bread": "2025-02-19 02:37:17 +0000",
       "golden_apple": "2025-02-19 02:50:48 +0000",
       "rotten_flesh": "2025-02-19 02:13:13 +0000",
       "golden_carrot": "2025-02-19 03:02:12 +0000",
-      "cod": "2025-02-19 02:50:04 +0000"
+      "cod": "2025-02-19 02:50:04 +0000",
+      "carrot": "2025-02-20 02:04:45 +0000"
     },
     "done": false
   },
@@ -4881,6 +4884,162 @@
   "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
     "criteria": {
       "has_logs": "2025-02-20 01:33:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-20 02:06:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-20 02:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-20 02:05:05 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-20 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-20 02:05:05 +0000"
     },
     "done": true
   },

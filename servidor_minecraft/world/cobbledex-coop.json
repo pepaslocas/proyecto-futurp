@@ -135,6 +135,48 @@
         "discoveredTimestamp": 1740008092579,
         "caughtTimestamp": 1740008092579
       }
+    },
+    "cottonee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017610681
+      }
+    },
+    "oinkologne": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017619313
+      }
+    },
+    "combee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017623335
+      }
+    },
+    "drifloon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017640340
+      }
+    },
+    "patrat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017643889
+      }
+    },
+    "kricketot": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740017656898
+      }
     }
   }
 }
