@@ -96,6 +96,13 @@
             "discoveredTimestamp": 1740008247060,
             "caughtTimestamp": 1740008247060
           }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740009481369
+          }
         }
       },
       "name": "cobbledex_discovery"
