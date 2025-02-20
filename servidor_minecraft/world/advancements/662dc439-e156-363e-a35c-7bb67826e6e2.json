@@ -4571,6 +4571,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2025-02-20 01:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-20 01:34:44 +0000"
@@ -4601,6 +4619,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
@@ -4622,6 +4646,12 @@
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },
@@ -4673,9 +4703,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },
@@ -4685,9 +4727,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },
@@ -4775,6 +4853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/combat/cannon": {
     "criteria": {
       "has_ship": "2025-02-20 01:37:12 +0000"
@@ -4784,6 +4868,24 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-20 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },
@@ -4802,6 +4904,18 @@
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },
@@ -4865,6 +4979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
@@ -4880,6 +5000,18 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2025-02-20 01:24:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-20 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-02-20 01:39:40 +0000"
     },
     "done": true
   },

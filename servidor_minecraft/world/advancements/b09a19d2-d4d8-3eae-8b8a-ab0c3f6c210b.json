@@ -69,6 +69,7 @@
       "minecraft:sparse_jungle": "2025-02-19 01:55:00 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 02:45:16 +0000",
       "minecraft:forest": "2025-02-19 03:40:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-20 01:40:23 +0000",
       "minecraft:ocean": "2025-02-19 02:00:56 +0000",
       "minecraft:warm_ocean": "2025-02-19 01:55:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-20 01:24:55 +0000",
@@ -4026,6 +4027,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-02-20 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-20 01:41:42 +0000"
     },
     "done": true
   },

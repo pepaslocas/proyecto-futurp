@@ -14985,3 +14985,392 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20Feb2025 01:43:26.214] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
 [20Feb2025 01:43:30.532] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
 [20Feb2025 01:43:30.543] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle2
+[20Feb2025 01:43:48.972] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[20Feb2025 01:43:49.048] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[20Feb2025 01:43:54.014] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:43:54.014] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:43:54.015] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:43:59.286] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/base_plate
+[20Feb2025 01:44:15.423] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[20Feb2025 01:44:15.607] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[20Feb2025 01:44:22.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 01:44:22.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 01:44:24.064] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:44:24.064] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:44:24.065] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:44:41.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[20Feb2025 01:44:48.386] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[20Feb2025 01:44:48.386] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[20Feb2025 01:44:51.121] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[20Feb2025 01:44:54.113] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:44:54.113] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:44:54.114] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:45:09.995] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[20Feb2025 01:45:24.173] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:45:24.173] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:45:24.174] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:45:40.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue_small
+[20Feb2025 01:45:54.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:45:54.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:45:54.214] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:46:05.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[20Feb2025 01:46:13.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[20Feb2025 01:46:13.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[20Feb2025 01:46:24.264] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:46:24.264] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:46:24.265] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:46:36.181] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.186] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=930, z=1073200}"
+}
+[20Feb2025 01:46:36.187] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 255 extra bytes: 
+[20Feb2025 01:46:36.189] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "I<ChnZ, 0~6jd  \\GKurrrh`[|&+/,0/526.ip.gl.ply.gg+3&$ %,IbI kDB"
+]
+[20Feb2025 01:46:36.690] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.691] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=996, z=1073200}"
+}
+[20Feb2025 01:46:36.691] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 124 extra bytes: 
+[20Feb2025 01:46:36.692] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1X%DUYk}V32+$ ^XDT`r,}!r&+/,0/526.ip.gl"
+]
+[20Feb2025 01:46:36.692] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.692] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": true
+}
+[20Feb2025 01:46:36.692] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 168 extra bytes: 
+[20Feb2025 01:46:36.693] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1X%DUYk}V32+$ ^XDT`r,}!r&+/,0/526.ip.glply.gg"
+]
+[20Feb2025 01:46:36.693] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.694] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134206_": true,
+  "f_134207_": true
+}
+[20Feb2025 01:46:36.694] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 168 extra bytes: 
+[20Feb2025 01:46:36.694] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Yk}V32+$ ^XDT`r,}!r&+/,0/526.ip.glply.gg"
+]
+[20Feb2025 01:46:36.695] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundKeepAlivePacket  id 18 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.697] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134092_": -1336801438624940671
+}
+[20Feb2025 01:46:36.697] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 18 data of 155 extra bytes: 
+[20Feb2025 01:46:36.698] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!r&+/,0/526.ip.glply.gg+3&"
+]
+[20Feb2025 01:46:36.698] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.698] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": 1.012698E-18,
+  "f_134340_": -564848.0,
+  "f_134341_": false,
+  "f_134342_": true
+}
+[20Feb2025 01:46:36.699] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 181 extra bytes: 
+[20Feb2025 01:46:36.699] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/526.ip.glply.gg+3& WvJ#`z=Vp"
+]
+[20Feb2025 01:46:36.824] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:36.825] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=881, z=1073200}"
+}
+[20Feb2025 01:46:36.826] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:36.827] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-106, -67, -115, -74, -47, -118, -33, -57, 98, 41, -104]"
+]
+[20Feb2025 01:46:37.115] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:37.116] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=982, z=1073200}"
+}
+[20Feb2025 01:46:37.116] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:37.117] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-78, -42, 49, -6, 88, -2, 36, -8, 122, -105, -92]"
+]
+[20Feb2025 01:46:37.362] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:37.363] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=773, z=1073200}"
+}
+[20Feb2025 01:46:37.363] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 65 extra bytes: 
+[20Feb2025 01:46:37.363] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_6Y3K_oi@`DA= N-XV[+Afi(n&"
+]
+[20Feb2025 01:46:37.866] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:37.882] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=847, z=1073200}"
+}
+[20Feb2025 01:46:37.887] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 129 extra bytes: 
+[20Feb2025 01:46:37.891] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+[G.BaveKX sn[hF*ri&+/,0/526.ip.gl.ply."
+]
+[20Feb2025 01:46:37.897] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:37.899] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134073_": "BlockPos{x=7150778, y=226, z=-21154773}",
+  "f_134074_": 97,
+  "f_134075_": true
+}
+[20Feb2025 01:46:37.906] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 212 extra bytes: 
+[20Feb2025 01:46:37.907] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "eKX sn[hF*ri&+/,0/526.ip.gl.ply.g+3&$ @"
+]
+[20Feb2025 01:46:37.994] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:37.995] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=823, z=1073200}"
+}
+[20Feb2025 01:46:37.996] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 121 extra bytes: 
+[20Feb2025 01:46:37.996] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Cy8LBMQS&;nx: xyTgWP}VNyg!h8)E&+/,0/526.ip"
+]
+[20Feb2025 01:46:38.308] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:38.308] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=920, z=1073200}"
+}
+[20Feb2025 01:46:38.309] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:38.310] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-32, 22, -27, -22, 13, 93, -78, -42, -47, -126, -19]"
+]
+[20Feb2025 01:46:40.273] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:40.274] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=939, z=1073200}"
+}
+[20Feb2025 01:46:40.274] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:40.274] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[114, 16, 33, -3, 120, -8, -15, 71, -32, -31, -96]"
+]
+[20Feb2025 01:46:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Fishy Business]
+[20Feb2025 01:46:52.118] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:52.119] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=927, z=1122352}"
+}
+[20Feb2025 01:46:52.120] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:52.120] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-32, -82, -125, -48, -50, -83, 58, 113, 85, 61, 83]"
+]
+[20Feb2025 01:46:52.382] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:52.383] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=930, z=905264}"
+}
+[20Feb2025 01:46:52.383] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:52.383] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-106, 57, 83, 71, -16, -60, -47, 39, -90, -122, 110]"
+]
+[20Feb2025 01:46:54.062] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[20Feb2025 01:46:54.063] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=824, z=856112}"
+}
+[20Feb2025 01:46:54.063] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[20Feb2025 01:46:54.064] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, -30, -85, 106, -106, 61, 61, -106, 122, 66, 61]"
+]
+[20Feb2025 01:46:54.313] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:46:54.313] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:46:54.314] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:47:24.246] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:beach took 131 ms
+[20Feb2025 01:47:24.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:47:24.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:47:24.364] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:47:54.413] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:47:54.414] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:47:54.415] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:48:24.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:48:24.508] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:48:24.509] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:48:25.426] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_red
+[20Feb2025 01:48:26.431] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[20Feb2025 01:48:42.782] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[20Feb2025 01:48:49.445] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[20Feb2025 01:48:49.593] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[20Feb2025 01:48:49.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[20Feb2025 01:48:54.383] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[20Feb2025 01:48:54.447] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/barrels
+[20Feb2025 01:48:54.514] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:48:54.514] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:48:54.514] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:49:09.257] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[20Feb2025 01:49:19.052] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/26559, l='ServerLevel[world]', x=-6664.50, y=41.00, z=-7325.50] as it would cause deadlock
+[20Feb2025 01:49:22.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 01:49:22.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 01:49:24.087] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[20Feb2025 01:49:24.087] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[20Feb2025 01:49:24.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:49:24.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:49:24.581] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:49:49.633] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[20Feb2025 01:49:49.646] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[20Feb2025 01:49:49.684] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[20Feb2025 01:49:49.694] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[20Feb2025 01:49:49.695] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[20Feb2025 01:49:49.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[20Feb2025 01:49:49.730] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[20Feb2025 01:49:49.838] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[20Feb2025 01:49:49.855] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[20Feb2025 01:49:49.888] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[20Feb2025 01:49:49.946] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[20Feb2025 01:49:50.826] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[20Feb2025 01:49:50.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[20Feb2025 01:49:51.042] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[20Feb2025 01:49:51.094] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[20Feb2025 01:49:51.105] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[20Feb2025 01:49:51.143] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[20Feb2025 01:49:51.252] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[20Feb2025 01:49:51.260] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[20Feb2025 01:49:51.279] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[20Feb2025 01:49:51.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[20Feb2025 01:49:51.315] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[20Feb2025 01:49:51.322] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[20Feb2025 01:49:51.324] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[20Feb2025 01:49:51.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[20Feb2025 01:49:51.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[20Feb2025 01:49:51.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[20Feb2025 01:49:51.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[20Feb2025 01:49:51.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[20Feb2025 01:49:51.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[20Feb2025 01:49:51.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[20Feb2025 01:49:51.339] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[20Feb2025 01:49:51.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[20Feb2025 01:49:51.415] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[20Feb2025 01:49:51.423] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[20Feb2025 01:49:51.429] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[20Feb2025 01:49:51.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[20Feb2025 01:49:51.452] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[20Feb2025 01:49:51.458] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[20Feb2025 01:49:51.460] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[20Feb2025 01:49:51.464] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[20Feb2025 01:49:51.469] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[20Feb2025 01:49:51.472] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[20Feb2025 01:49:51.473] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[20Feb2025 01:49:51.476] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[20Feb2025 01:49:51.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[20Feb2025 01:49:51.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[20Feb2025 01:49:51.498] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[20Feb2025 01:49:51.505] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[20Feb2025 01:49:51.519] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[20Feb2025 01:49:51.551] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[20Feb2025 01:49:51.558] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[20Feb2025 01:49:51.558] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[20Feb2025 01:49:51.558] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[20Feb2025 01:49:51.559] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[20Feb2025 01:49:51.560] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[20Feb2025 01:49:51.566] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[20Feb2025 01:49:51.568] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[20Feb2025 01:49:51.570] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[20Feb2025 01:49:51.571] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[20Feb2025 01:49:51.572] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_8
+[20Feb2025 01:49:51.574] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[20Feb2025 01:49:51.577] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[20Feb2025 01:49:51.580] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[20Feb2025 01:49:51.582] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[20Feb2025 01:49:51.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[20Feb2025 01:49:54.614] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:49:54.614] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:49:54.614] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:50:00.384] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[20Feb2025 01:50:00.502] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[20Feb2025 01:50:00.593] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table1
+[20Feb2025 01:50:12.904] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[20Feb2025 01:50:12.985] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[20Feb2025 01:50:23.569] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/28832, l='ServerLevel[world]', x=-6675.50, y=61.00, z=-7627.50]
+[20Feb2025 01:50:24.663] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:50:24.663] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:50:24.663] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:50:25.293] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/28865, l='ServerLevel[world]', x=-6675.50, y=62.00, z=-7628.50]
+[20Feb2025 01:50:31.936] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:50:31.983] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:50:32.055] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:50:45.605] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:tavern_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village]] from pos BlockPos{x=-6853, y=67, z=-7573}
+[20Feb2025 01:50:46.688] [Worker-Main-1/DEBUG] [ModernFix/]: Structure idas:wizard_tower/redwizardtower1 is being run through DFU (hash bf45b1cbfc639be62d11c22d5806b33b9cc9a66d9b890495e74e31c323761c37), this will cause launch time delays
+[20Feb2025 01:50:46.816] [Worker-Main-1/DEBUG] [ModernFix/]: Structure idas:wizard_tower/redwizardtower2 is being run through DFU (hash de4c11047a15152bae9fc496b1b5fb0cab615b3ae8471c044b8388c9e0078c3a), this will cause launch time delays
+[20Feb2025 01:50:50.931] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse
+[20Feb2025 01:50:50.954] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse_path
+[20Feb2025 01:50:55.708] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[20Feb2025 01:50:55.712] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_florist
+[20Feb2025 01:50:55.717] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[20Feb2025 01:50:55.721] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[20Feb2025 01:50:55.726] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_hunter
+[20Feb2025 01:50:55.769] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[20Feb2025 01:50:56.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20Feb2025 01:50:56.714] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:50:56.714] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:50:56.714] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:50:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[20Feb2025 01:51:00.147] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[20Feb2025 01:51:01.060] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[20Feb2025 01:51:03.214] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:51:03.255] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:51:03.285] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[20Feb2025 01:51:03.479] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=-6645, y=87, z=-7765}
+[20Feb2025 01:51:26.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:51:26.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:51:26.763] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:51:49.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/29800, l='ServerLevel[world]', x=-6884.50, y=55.00, z=-7502.50]
+[20Feb2025 01:51:49.918] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/29801, l='ServerLevel[world]', x=-6885.50, y=55.00, z=-7502.50]
+[20Feb2025 01:51:56.813] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:51:56.813] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:51:56.814] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:52:07.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/29905, l='ServerLevel[world]', x=-6885.50, y=55.00, z=-7503.50]
+[20Feb2025 01:52:26.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:52:26.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:52:26.863] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:52:45.046] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[20Feb2025 01:52:56.914] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:52:56.914] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:52:56.914] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[20Feb2025 01:53:26.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[20Feb2025 01:53:26.964] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:53:26.965] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[20Feb2025 01:53:57.014] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[20Feb2025 01:53:57.014] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[20Feb2025 01:53:57.014] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
