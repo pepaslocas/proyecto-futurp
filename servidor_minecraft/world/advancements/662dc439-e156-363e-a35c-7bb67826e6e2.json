@@ -5874,6 +5874,12 @@
     },
     "done": true
   },
+  "rctmod:trainers/defeat_leader_brock": {
+    "criteria": {
+      "first_defeat": "2025-02-20 22:46:19 +0000"
+    },
+    "done": true
+  },
   "cobblemon:brew_potion": {
     "criteria": {
       "check_inv": "2025-02-20 22:27:25 +0000"

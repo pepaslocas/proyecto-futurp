@@ -227,8 +227,9 @@
     "zigzagoon": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1740020131299
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740020131299,
+        "caughtTimestamp": 1740091265121
       }
     },
     "unfezant": {

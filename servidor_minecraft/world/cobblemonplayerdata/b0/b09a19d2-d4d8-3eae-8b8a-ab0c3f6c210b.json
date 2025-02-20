@@ -144,6 +144,14 @@
             "discoveredTimestamp": 1740089570535,
             "caughtTimestamp": 1740089570535
           }
+        },
+        "zigzagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740091275071,
+            "caughtTimestamp": 1740091275071
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -164,7 +172,7 @@
     "totalPvWBattleVictoryCount": 25,
     "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 2,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "water": 2,
       "ice": 1,

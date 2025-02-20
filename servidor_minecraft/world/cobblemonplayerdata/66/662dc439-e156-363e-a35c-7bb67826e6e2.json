@@ -193,8 +193,9 @@
         "zigzagoon": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1740020131298
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740020131298,
+            "caughtTimestamp": 1740091265120
           }
         },
         "unfezant": {
@@ -330,6 +331,14 @@
             "discoveredTimestamp": 1740090993268,
             "caughtTimestamp": 1740090993268
           }
+        },
+        "krabby": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740091275070,
+            "caughtTimestamp": 1740091275070
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -342,17 +351,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 33,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 27,
-    "totalPvNBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 28,
+    "totalPvNBattleVictoryCount": 4,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 6,
+    "totalTradedCount": 8,
     "totalTypeCaptureCounts": {
-      "normal": 4,
+      "normal": 5,
       "ground": 3,
       "fighting": 4,
       "rock": 2,
