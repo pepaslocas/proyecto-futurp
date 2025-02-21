@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-21 18:41:46 +0000",
       "minecraft:taiga": "2025-02-19 03:10:08 +0000",
       "minecraft:cherry_grove": "2025-02-19 04:01:36 +0000",
       "minecraft:birch_forest": "2025-02-19 01:27:12 +0000",
@@ -62,10 +63,16 @@
       "minecraft:beach": "2025-02-19 02:37:20 +0000",
       "minecraft:sparse_jungle": "2025-02-20 04:16:07 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 02:38:25 +0000",
+      "minecraft:river": "2025-02-21 18:34:33 +0000",
+      "minecraft:snowy_plains": "2025-02-21 18:08:32 +0000",
       "minecraft:dripstone_caves": "2025-02-19 02:21:32 +0000",
+      "minecraft:snowy_taiga": "2025-02-21 18:45:17 +0000",
+      "minecraft:grove": "2025-02-21 18:39:51 +0000",
       "minecraft:forest": "2025-02-20 02:08:26 +0000",
       "minecraft:deep_cold_ocean": "2025-02-20 00:02:35 +0000",
+      "minecraft:frozen_ocean": "2025-02-21 18:05:14 +0000",
       "minecraft:ocean": "2025-02-19 03:24:27 +0000",
+      "minecraft:snowy_beach": "2025-02-21 18:04:48 +0000",
       "minecraft:warm_ocean": "2025-02-20 04:37:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-19 04:50:38 +0000",
       "minecraft:flower_forest": "2025-02-19 02:12:25 +0000",
@@ -151,11 +158,13 @@
     "criteria": {
       "honey_bottle": "2025-02-20 02:16:45 +0000",
       "beef": "2025-02-19 03:27:56 +0000",
+      "baked_potato": "2025-02-21 18:42:36 +0000",
       "porkchop": "2025-02-19 03:03:15 +0000",
       "mutton": "2025-02-19 02:29:41 +0000",
       "glow_berries": "2025-02-19 03:40:21 +0000",
       "salmon": "2025-02-19 03:17:37 +0000",
       "tropical_fish": "2025-02-20 02:00:09 +0000",
+      "apple": "2025-02-21 17:57:39 +0000",
       "bread": "2025-02-19 02:37:17 +0000",
       "golden_apple": "2025-02-19 02:50:48 +0000",
       "rotten_flesh": "2025-02-19 02:13:13 +0000",
@@ -1922,15 +1931,27 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2025-02-21 05:47:20 +0000",
       "great_ball": "2025-02-20 02:10:22 +0000",
+      "timer_ball": "2025-02-21 05:44:35 +0000",
+      "ancient_poke_ball": "2025-02-21 05:28:15 +0000",
+      "repeat_ball": "2025-02-21 18:13:16 +0000",
       "azure_ball": "2025-02-20 03:48:01 +0000",
       "net_ball": "2025-02-20 04:33:24 +0000",
+      "dive_ball": "2025-02-21 05:44:48 +0000",
+      "safari_ball": "2025-02-21 18:13:17 +0000",
       "verdant_ball": "2025-02-20 04:01:01 +0000",
+      "dream_ball": "2025-02-21 05:44:36 +0000",
+      "ultra_ball": "2025-02-21 04:59:30 +0000",
+      "fast_ball": "2025-02-21 05:44:32 +0000",
+      "heal_ball": "2025-02-21 17:55:23 +0000",
       "slate_ball": "2025-02-20 02:39:25 +0000",
       "poke_ball": "2025-02-19 02:36:51 +0000",
       "citrine_ball": "2025-02-20 04:07:58 +0000",
       "roseate_ball": "2025-02-20 02:46:49 +0000",
-      "premier_ball": "2025-02-20 04:01:06 +0000"
+      "premier_ball": "2025-02-20 04:01:06 +0000",
+      "park_ball": "2025-02-21 05:47:03 +0000",
+      "master_ball": "2025-02-21 18:57:57 +0000"
     },
     "done": false
   },
@@ -5194,8 +5215,11 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_max_elixir": "2025-02-21 05:43:19 +0000",
       "obtain_hyper_potion": "2025-02-20 03:02:08 +0000",
       "obtain_super_potion": "2025-02-20 04:57:29 +0000",
+      "obtain_max_potion": "2025-02-21 05:46:49 +0000",
+      "obtain_full_heal": "2025-02-21 05:10:44 +0000",
       "obtain_potion": "2025-02-20 04:57:28 +0000",
       "obtain_antidote": "2025-02-20 04:37:43 +0000",
       "obtain_elixir": "2025-02-20 03:16:25 +0000"
@@ -5977,21 +6001,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-02-20 05:40:22 +0000"
-    },
-    "done": true
-  },
   "cobblemon:full_party": {
     "criteria": {
       "full_party": "2025-02-20 05:36:53 +0000"
     },
     "done": true
   },
-  "cobblemon:first_battle_victory": {
+  "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
-      "win": "2025-02-20 05:47:01 +0000"
+      "has_baked_potato": "2025-02-20 05:40:22 +0000"
     },
     "done": true
   },
@@ -6004,6 +6022,240 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-20 05:40:22 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-02-20 05:47:01 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_megastone": {
+    "criteria": {
+      "has_any_gen1_stone": "2025-02-21 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_08_gyaradosite_stone": {
+    "criteria": {
+      "has_cut_gyaradosite": "2025-02-21 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_cuff": {
+    "criteria": {
+      "has_mega_cuff": "2025-02-21 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/key_stone": {
+    "criteria": {
+      "has_diamond": "2025-02-21 05:00:53 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_brock": {
+    "criteria": {
+      "first_defeat": "2025-02-21 05:19:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_m_candy": "2025-02-21 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-02-21 05:20:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-02-21 05:28:15 +0000"
+    },
+    "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-02-21 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-02-21 05:43:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "fast_ball": "2025-02-21 05:44:32 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-02-21 05:46:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-21 17:50:04 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/tools/mega_cuff": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-21 17:52:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "snowy_fir_clearing": "2025-02-21 18:06:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2025-02-21 18:07:06 +0000",
+      "rocky_shrubland": "2025-02-21 18:32:23 +0000",
+      "scrubland": "2025-02-21 18:37:13 +0000",
+      "fungal_jungle": "2025-02-21 19:13:49 +0000",
+      "floodplain": "2025-02-21 19:10:09 +0000",
+      "highland": "2025-02-21 18:39:38 +0000",
+      "jacaranda_glade": "2025-02-21 18:33:49 +0000",
+      "mystic_grove": "2025-02-21 18:29:55 +0000",
+      "field": "2025-02-21 18:25:43 +0000",
+      "orchard": "2025-02-21 18:32:45 +0000",
+      "overgrown_greens": "2025-02-21 18:26:42 +0000",
+      "mediterranean_forest": "2025-02-21 18:34:02 +0000",
+      "coniferous_forest": "2025-02-21 18:25:13 +0000",
+      "rocky_rainforest": "2025-02-21 19:10:17 +0000",
+      "lavender_field": "2025-02-21 18:53:40 +0000",
+      "grassland": "2025-02-21 18:28:12 +0000",
+      "snowy_fir_clearing": "2025-02-21 18:06:05 +0000",
+      "tundra": "2025-02-21 18:07:55 +0000",
+      "rainforest": "2025-02-21 19:07:52 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:08:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-21 18:28:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-02-21 19:07:40 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-02-21 18:54:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-21 18:39:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-02-21 18:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-21 18:28:09 +0000"
     },
     "done": true
   },

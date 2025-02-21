@@ -5,14 +5,32 @@
   "player_red_0202": [
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
+  "leader_misty_019f": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2",
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "youngster_lancere_0025": [
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "leader_brock_019e": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2",
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34",
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "lass_janice_0074": [
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
+  ],
+  "rival_terry_01ac": [
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "lass_miriam_0078": [
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
+  ],
   "bug_catcher_01f1": [
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
   "bug_catcher_anthony_0213": [
     "662dc439-e156-363e-a35c-7bb67826e6e2"
-  ],
-  "youngster_lancere_0025": [
-    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
   ],
   "bug_catcher_rick_0066": [
     "662dc439-e156-363e-a35c-7bb67826e6e2"
@@ -24,16 +42,14 @@
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
   "friendly_maniac_0006": [
-    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
-  ],
-  "leader_brock_019e": [
     "662dc439-e156-363e-a35c-7bb67826e6e2",
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34",
     "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
   ],
-  "lass_janice_0074": [
-    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
+  "camper_ricky_0091": [
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
   ],
-  "lass_miriam_0078": [
-    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
+  "camper_flint_01d7": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2"
   ]
 }
